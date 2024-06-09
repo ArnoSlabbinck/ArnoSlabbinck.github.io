@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/%7Brepository-name%7D/static/css/main.cb954f12.css",
+    "main.js": "/%7Brepository-name%7D/static/js/main.d733a6a7.js",
+    "static/media/homebg.png": "/%7Brepository-name%7D/static/media/homebg.76586c2945ebe68159ec.png",
+    "static/media/Avatar.jpg": "/%7Brepository-name%7D/static/media/Avatar.438f6bf75a3534c9d73b.jpg",
+    "static/media/about.svg": "/%7Brepository-name%7D/static/media/about.7d75dfefcdc19e92e76c1afe2f33fe0c.svg",
+    "static/media/logolight.svg": "/%7Brepository-name%7D/static/media/logolight.a924c6a4575f28f3f45ed3b266a5dc59.svg",
+    "index.html": "/%7Brepository-name%7D/index.html",
+    "static/media/load.svg": "/%7Brepository-name%7D/static/media/load.9d4e2f5267a2ac91f7f4.svg",
+    "main.cb954f12.css.map": "/%7Brepository-name%7D/static/css/main.cb954f12.css.map",
+    "main.d733a6a7.js.map": "/%7Brepository-name%7D/static/js/main.d733a6a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb954f12.css",
+    "static/js/main.d733a6a7.js"
+  ]
+}

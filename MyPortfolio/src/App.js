@@ -30,7 +30,7 @@ function App() {
 
   return (
     <div className={`${themename} app`}>
-      <Router>
+      <Router basename="/ArnoSlabbinckPortfolio">
         <Preloader load={load} />
         <div className="App" id={load ? "no-scroll" : "scroll"}>
           <Navbar />

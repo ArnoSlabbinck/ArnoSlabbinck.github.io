@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ArnoSlabbinckPortfolio/static/css/main.3e2305ea.css",
-    "main.js": "/ArnoSlabbinckPortfolio/static/js/main.04fad92a.js",
+    "main.css": "/ArnoSlabbinckPortfolio/static/css/main.22216dbc.css",
+    "main.js": "/ArnoSlabbinckPortfolio/static/js/main.bc05f904.js",
     "static/media/homebg.png": "/ArnoSlabbinckPortfolio/static/media/homebg.76586c2945ebe68159ec.png",
     "static/media/Avatar.jpg": "/ArnoSlabbinckPortfolio/static/media/Avatar.438f6bf75a3534c9d73b.jpg",
     "static/media/Visitor-registration.png": "/ArnoSlabbinckPortfolio/static/media/Visitor-registration.90738c2ee0c19136f6e5.png",
@@ -12,11 +12,11 @@
     "static/media/logolight.svg": "/ArnoSlabbinckPortfolio/static/media/logolight.a924c6a4575f28f3f45ed3b266a5dc59.svg",
     "index.html": "/ArnoSlabbinckPortfolio/index.html",
     "static/media/load.svg": "/ArnoSlabbinckPortfolio/static/media/load.9d4e2f5267a2ac91f7f4.svg",
-    "main.3e2305ea.css.map": "/ArnoSlabbinckPortfolio/static/css/main.3e2305ea.css.map",
-    "main.04fad92a.js.map": "/ArnoSlabbinckPortfolio/static/js/main.04fad92a.js.map"
+    "main.22216dbc.css.map": "/ArnoSlabbinckPortfolio/static/css/main.22216dbc.css.map",
+    "main.bc05f904.js.map": "/ArnoSlabbinckPortfolio/static/js/main.bc05f904.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e2305ea.css",
-    "static/js/main.04fad92a.js"
+    "static/css/main.22216dbc.css",
+    "static/js/main.bc05f904.js"
   ]
 }
